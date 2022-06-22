@@ -10,5 +10,5 @@ while(piso >= 0 && piso <= totalPisos){
     console.log(subirPisos)
 }
 
-alert(`debe subir ${subirPisos} hasta llegar a la terraza`)
+alert(`debe subir ${subirPisos} pisos hasta llegar a la terraza`)
 
